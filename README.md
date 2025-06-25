@@ -25,7 +25,7 @@ The primary goal of this project is to:
 
 ## 🗃️ Dataset Overview
 
-(The dataset used contains **financial transaction logs** and is inspired by the [Synthetic Financial Fraud Detection dataset on Kaggle]([https://www.kaggle.com/datasets/ntnu-testimon/paysim1]).
+(The dataset used contains **financial transaction logs** and is inspired by the [Synthetic Financial Fraud Detection dataset on Kaggle](https://www.kaggle.com/datasets/ntnu-testimon/paysim1).
 ).  
 It includes over 6 million records with the following key fields:
 
